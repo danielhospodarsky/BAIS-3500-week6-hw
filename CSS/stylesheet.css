@@ -21,6 +21,7 @@ nav{
     margin: 15px;
 }
 
+/* LINKS CSS*/
 a{
     color: #10314A;
     text-decoration: none;
@@ -43,6 +44,7 @@ main{
     margin: 15px;
 }
 
+/* Table CSS*/
 table{
     border: 1px solid black;
     border-collapse: collapse;
@@ -58,6 +60,7 @@ table, th, td {
     border: 1px solid;
   }
 
+
 footer{
     border: 2px solid black;
     padding: 5px;
@@ -66,6 +69,7 @@ footer{
     color: #10314A;
 }
 
+/* NAVIGATION CSS*/
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #2F404D;
