@@ -1,56 +1,44 @@
 .wrapper{
-    background-color: #7AF8FF;
+    background-color: #CAD8E3;
 }
 
 header{
-    background-color: #7AF8FF;
     border: 2px solid black;
     padding-left: 5px;
     padding-top: 5px;
     padding-bottom: 25px;
     margin: 15px;
     text-align: center;
-    color: black;
+    color: #10314A;
 }
 
 body { 
-    background-color: white;
+    color: #10314A;
 }
 
 nav{
-    background-color: #7AF8FF;
     padding-bottom: 25px;
-    padding-left: 5px;
+    padding-left: 10px;
     border-bottom: 1px solid black;
 }
 
 a{
+    color: #10314A;
     text-decoration: none;
     font-size: 1.1rem;
 }
 a:link {
-    color: red;
-}
-  
-  /* visited link */
-  a:visited {
-    color: green;
+    color: #206599;
 }
   
   /* mouse over link */
   a:hover {
-    color: hotpink;
-    background-color: aquamarine;
+    color: #2A84C9;
     padding: 2px;
 }
-  
-  /* selected link */
-  a:active {
-    color: blue;
-}
+
 
 main{
-    background-color: #7AF8FF;
     border: 2px solid black;
     padding: 5px;
     margin: 15px;
@@ -72,10 +60,9 @@ table, th, td {
   }
 
 footer{
-    background-color: #7AF8FF;
     border: 2px solid black;
     padding: 5px;
     margin: 15px;
     text-align: center;
-    color: black;
+    color: #10314A;
 }
