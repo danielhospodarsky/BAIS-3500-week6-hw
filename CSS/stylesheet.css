@@ -10,7 +10,7 @@ header{
     padding-bottom: 25px;
     margin: 15px;
     text-align: center;
-    color: red;
+    color: black;
 }
 
 body { 
@@ -63,13 +63,13 @@ table{
 }
 
 td{
-    text-align: left;
+    text-align: center;
     padding: 8px;
 }
 
-th{
-    background-color: aquamarine;
-}
+table, th, td {
+    border: 1px solid;
+  }
 
 footer{
     background-color: #7AF8FF;
@@ -77,5 +77,5 @@ footer{
     padding: 5px;
     margin: 15px;
     text-align: center;
-    color: red;
+    color: black;
 }
